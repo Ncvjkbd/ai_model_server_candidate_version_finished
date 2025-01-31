@@ -37,6 +37,7 @@ class ZMQClient:
             print(f"Received response: {response}")
         except asyncio.TimeoutError:
             print("Timeout: No response received.")
+
     async def run_multiple_requests(self, num_requests=5):
         """Send multiple requests asynchronously for testing."""
         tasks = []
