@@ -1,0 +1,110 @@
+[2025-01-30 20:42:46,671] ModelServer - INFO:-> Model Server Started
+[2025-01-30 20:45:08,358] ModelServer - INFO:-> Model Server Started
+[2025-01-30 20:45:13,395] ModelServer - INFO:-> Model Server Stopping...
+[2025-01-30 20:45:56,471] ModelServer - INFO:-> Model Server Started
+[2025-01-30 20:46:01,505] ModelServer - INFO:-> Model Server Stopping...
+[2025-01-31 00:31:59,666] ModelServer - INFO:-> Model Server Started
+[2025-01-31 00:32:50,059] ModelServer - INFO:-> Model Server Started
+[2025-01-31 00:32:50,071] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 00:32:50,071] ModelServer - INFO:-> Request listener started...
+[2025-01-31 00:32:50,072] ModelServer - ERROR:-> Unexpected error: Proactor event loop does not implement add_reader family of methods required for zmq. zmq will work with proactor if tornado >= 6.1 can be found. Use `asyncio.set_event_loop_policy(WindowsSelectorEventLoopPolicy())` or install 'tornado>=6.1' to avoid this error.
+[2025-01-31 00:34:02,470] ModelServer - INFO:-> Model Server Started
+[2025-01-31 00:34:02,481] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 00:34:02,481] ModelServer - INFO:-> Request listener started...
+[2025-01-31 00:46:24,484] ModelServer - INFO:-> Model Server Started
+[2025-01-31 00:46:24,495] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 00:46:24,496] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:34:57,376] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:34:57,392] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:34:57,393] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:35:29,120] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:35:29,131] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:35:29,131] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:38:41,015] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:38:41,027] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:38:41,027] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:41:19,659] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:41:19,671] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:41:19,671] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:42:53,821] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:42:53,832] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:42:53,832] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:44:43,062] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:44:43,078] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:44:43,078] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:44:45,420] ModelServer - INFO:-> Received request: {'request_id': '1234', 'type': 'training', 'data': 'data'}
+[2025-01-31 06:45:31,824] ModelServer - INFO:-> Model Server Started
+[2025-01-31 06:45:31,835] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 06:45:31,835] ModelServer - INFO:-> Request listener started...
+[2025-01-31 06:45:33,667] ModelServer - INFO:-> Received request: {'request_id': '1234', 'type': 'training', 'data': 'data'}
+[2025-01-31 06:45:34,671] ModelServer - INFO:-> Sent response: {'request_id': '1234', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:00:24,129] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:00:24,154] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:00:24,154] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:01:15,872] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:01:15,884] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:01:15,884] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:07:12,748] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:07:12,770] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:07:12,771] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:07:42,012] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:07:42,024] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:07:42,025] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:07:55,928] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:07:55,939] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:07:55,940] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:08:20,566] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:08:20,579] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:08:20,579] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:09:14,644] ModelServer - INFO:-> Model Server Started
+[2025-01-31 07:09:14,655] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 07:09:14,655] ModelServer - INFO:-> Request listener started...
+[2025-01-31 07:09:18,309] ModelServer - INFO:-> Received request: {'request_id': '1234', 'type': 'training', 'data': 'data'}
+[2025-01-31 07:09:19,320] ModelServer - INFO:-> Sent response: {'request_id': '1234', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:09:20,330] ModelServer - INFO:-> Received request: {'request_id': '5678', 'type': 'inference', 'data': 'input'}
+[2025-01-31 07:09:21,339] ModelServer - INFO:-> Sent response: {'request_id': '5678', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:11:42,522] ModelServer - INFO:-> Received request: {'request_id': '0', 'type': 'inference', 'data': 'data_0'}
+[2025-01-31 07:11:43,523] ModelServer - INFO:-> Sent response: {'request_id': '0', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:11:43,523] ModelServer - INFO:-> Received request: {'request_id': '1', 'type': 'inference', 'data': 'data_1'}
+[2025-01-31 07:11:44,530] ModelServer - INFO:-> Sent response: {'request_id': '1', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:11:44,530] ModelServer - INFO:-> Received request: {'request_id': '2', 'type': 'inference', 'data': 'data_2'}
+[2025-01-31 07:11:45,539] ModelServer - INFO:-> Sent response: {'request_id': '2', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:11:45,539] ModelServer - INFO:-> Received request: {'request_id': '3', 'type': 'inference', 'data': 'data_3'}
+[2025-01-31 07:11:46,552] ModelServer - INFO:-> Sent response: {'request_id': '3', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:11:46,552] ModelServer - INFO:-> Received request: {'request_id': '4', 'type': 'inference', 'data': 'data_4'}
+[2025-01-31 07:12:41,792] ModelServer - INFO:-> Sent response: {'request_id': '4', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:12:41,793] ModelServer - INFO:-> Received request: {'request_id': '0', 'type': 'inference', 'data': 'data_0'}
+[2025-01-31 07:12:42,795] ModelServer - INFO:-> Sent response: {'request_id': '0', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:12:42,795] ModelServer - INFO:-> Received request: {'request_id': '1', 'type': 'inference', 'data': 'data_1'}
+[2025-01-31 07:12:43,803] ModelServer - INFO:-> Sent response: {'request_id': '1', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:12:43,803] ModelServer - INFO:-> Received request: {'request_id': '2', 'type': 'inference', 'data': 'data_2'}
+[2025-01-31 07:12:44,818] ModelServer - INFO:-> Sent response: {'request_id': '2', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:12:44,818] ModelServer - INFO:-> Received request: {'request_id': '3', 'type': 'inference', 'data': 'data_3'}
+[2025-01-31 07:12:45,830] ModelServer - INFO:-> Sent response: {'request_id': '3', 'status': 'processed', 'result': 'success'}
+[2025-01-31 07:12:45,830] ModelServer - INFO:-> Received request: {'request_id': '4', 'type': 'inference', 'data': 'data_4'}
+[2025-01-31 12:05:21,281] ModelServer - INFO:-> Model Server Started
+[2025-01-31 12:05:21,326] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 12:05:21,326] ModelServer - INFO:-> Request listener started...
+[2025-01-31 12:05:31,083] ModelServer - INFO:-> Received request: {'request_id': '0', 'type': 'inference', 'data': 'data_0'}
+[2025-01-31 12:05:32,097] ModelServer - INFO:-> Sent response: {'request_id': '0', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:05:32,097] ModelServer - INFO:-> Received request: {'request_id': '1', 'type': 'inference', 'data': 'data_1'}
+[2025-01-31 12:05:33,109] ModelServer - INFO:-> Sent response: {'request_id': '1', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:05:33,109] ModelServer - INFO:-> Received request: {'request_id': '2', 'type': 'inference', 'data': 'data_2'}
+[2025-01-31 12:05:34,124] ModelServer - INFO:-> Sent response: {'request_id': '2', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:05:34,124] ModelServer - INFO:-> Received request: {'request_id': '3', 'type': 'inference', 'data': 'data_3'}
+[2025-01-31 12:05:35,139] ModelServer - INFO:-> Sent response: {'request_id': '3', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:05:35,139] ModelServer - INFO:-> Received request: {'request_id': '4', 'type': 'inference', 'data': 'data_4'}
+[2025-01-31 12:05:36,154] ModelServer - INFO:-> Sent response: {'request_id': '4', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:38:59,597] ModelServer - INFO:-> Model Server Started
+[2025-01-31 12:38:59,607] ModelServer - INFO:-> ZMQ Sockets initialized.
+[2025-01-31 12:38:59,608] ModelServer - INFO:-> Request listener started...
+[2025-01-31 12:39:04,278] ModelServer - INFO:-> Received request: {'request_id': '0', 'type': 'inference', 'data': 'data_0'}
+[2025-01-31 12:39:05,281] ModelServer - INFO:-> Sent response: {'request_id': '0', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:39:05,281] ModelServer - INFO:-> Received request: {'request_id': '1', 'type': 'inference', 'data': 'data_1'}
+[2025-01-31 12:39:06,287] ModelServer - INFO:-> Sent response: {'request_id': '1', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:39:06,287] ModelServer - INFO:-> Received request: {'request_id': '2', 'type': 'inference', 'data': 'data_2'}
+[2025-01-31 12:39:07,289] ModelServer - INFO:-> Sent response: {'request_id': '2', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:39:07,289] ModelServer - INFO:-> Received request: {'request_id': '3', 'type': 'inference', 'data': 'data_3'}
+[2025-01-31 12:39:08,297] ModelServer - INFO:-> Sent response: {'request_id': '3', 'status': 'processed', 'result': 'success'}
+[2025-01-31 12:39:08,297] ModelServer - INFO:-> Received request: {'request_id': '4', 'type': 'inference', 'data': 'data_4'}
+[2025-01-31 12:39:09,312] ModelServer - INFO:-> Sent response: {'request_id': '4', 'status': 'processed', 'result': 'success'}
